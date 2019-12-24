@@ -1,6 +1,6 @@
 /* Dark Theme by Skitals */
 /* A modification of default-black */
-/* v0.4 */
+/* v0.5 */
 html{font-family:clear-sans;font-size:62.5%;height:100%}
 body{font-size:1.3rem;color:#9b9b9b;background-color:#1c1b1b;padding:0;margin:0;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}
 @media (max-width:1280px){#template{min-width:1260px;max-width:1260px;margin:0}}
@@ -353,3 +353,5 @@ textarea.menu {
     border-top: none;
 }
 textarea.raw{background-color:#9b9b9b;color:#1c1b1b;}
+#docker_tabbed{margin-top:-37px !important;}
+span.advancedview_panel{margin-top:-45px !important;}
