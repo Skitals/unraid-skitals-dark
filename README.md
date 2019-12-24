@@ -1,5 +1,4 @@
-# skitals-dark
-Dark Theme for unRAID webGui
+# Dark Theme for unRAID webGui
 
 To install
 1) copy default-black.css to /usr/local/emhttp/plugins/dynamix/styles
