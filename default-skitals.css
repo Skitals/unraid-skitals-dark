@@ -1,6 +1,6 @@
 /* Dark Theme by Skitals */
 /* A modification of default-black */
-/* v0.3 */
+/* v0.4 */
 html{font-family:clear-sans;font-size:62.5%;height:100%}
 body{font-size:1.3rem;color:#9b9b9b;background-color:#1c1b1b;padding:0;margin:0;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}
 @media (max-width:1280px){#template{min-width:1260px;max-width:1260px;margin:0}}
@@ -56,7 +56,7 @@ textarea{resize:none}
 #header .text-right{float:right;text-align:left;padding-left:5px}
 #header .text-right a{color:#9b9b9b}
 #header .text-right #licensetype{font-weight:bold;font-style:italic;margin-right:4px}
-#title{margin:20px 0 32px 0;padding:8px 10px;clear:both;border-bottom:1px solid #2b2b2b;background-color:#262626;letter-spacing:1.8px}
+#title{margin:20px 0 21px 0;padding:8px 10px;clear:both;border-bottom:1px solid #2b2b2b;background-color:#262626;letter-spacing:1.8px}
 #title span.left{font-size:1.4rem}
 #title span.right{font-size:1.4rem;padding-top:2px;padding-right:10px;float:right}
 #title span img{padding-right:4px}
