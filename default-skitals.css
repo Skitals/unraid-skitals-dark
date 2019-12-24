@@ -1,6 +1,6 @@
 /* Dark Theme by Skitals */
 /* A modification of default-black */
-/* v0.2 */
+/* v0.3 */
 html{font-family:clear-sans;font-size:62.5%;height:100%}
 body{font-size:1.3rem;color:#9b9b9b;background-color:#1c1b1b;padding:0;margin:0;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}
 @media (max-width:1280px){#template{min-width:1260px;max-width:1260px;margin:0}}
@@ -236,7 +236,7 @@ span.login{color:#d63301;background-color:#ffddd1;display:block;width:100%}
 span.lite{background-color:#212121}
 span.label{font-size:1.2rem;padding:2px 0 2px 6px;margin-right:6px;border-radius:4px;display:inline;width:auto;vertical-align:middle}
 span.cpu-speed{display:block;color:#3b5998}
-span.status{float:right;font-size:1.4rem;margin-top:-58px !important;padding-right:8px;letter-spacing:1.8px}
+span.status{float:right;font-size:1.4rem;margin-top:30px;padding-right:8px;letter-spacing:1.8px}
 span.status.vhshift{margin-top:0;margin-right:0}
 span.status.vshift{margin-top:-18px}
 span.status.hshift{margin-right:-20px}
